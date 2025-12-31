@@ -14,6 +14,7 @@ function activateNavLink() {
   });
 }
 window.addEventListener("scroll", activateNavLink);
+activateNavLink()
 // END   ACTIVATING NAV LINK
 
 // START TOGGLING THEME
